@@ -36,16 +36,22 @@ jobs:
       - name: Build optimized playlist
         run: python scripts/build_playlist.py
 
+      - name: Build matching XMLTV guide
+        run: python scripts/build_xmltv.py
+
+      - name: Validate generated XMLTV
+        run: python -c "import xml.etree.ElementTree as ET; ET.parse('output/cn_dummy.xml'); print('XMLTV is valid')"
+
       - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/cn_best.m3u8 output/selection-report.json
+          git add output/cn_best.m3u8 output/cn_dummy.xml output/selection-report.json
 
           if git diff --cached --quiet; then
             echo "Generated files have not changed."
             exit 0
           fi
 
-          git commit -m "chore: update optimized IPTV playlist"
+          git commit -m "chore: update IPTV playlist and XMLTV"
           git push
