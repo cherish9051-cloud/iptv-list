@@ -1,12 +1,12 @@
 {
   "source_url": "https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all_status.m3u8",
-  "source_entry_count": 91,
-  "selected_channel_count": 49,
-  "removed_duplicate_count": 42,
+  "source_entry_count": 126,
+  "selected_channel_count": 51,
+  "removed_duplicate_count": 75,
   "channels": [
     {
       "channel": "CCTV1",
-      "candidate_count": 1,
+      "candidate_count": 2,
       "selected_original_name": "CCTV-1 (720p)",
       "selected_resolution": 720,
       "selected_response_time_ms": null,
@@ -14,15 +14,15 @@
     },
     {
       "channel": "CCTV2",
-      "candidate_count": 2,
-      "selected_original_name": "CCTV-2",
-      "selected_resolution": 720,
-      "selected_response_time_ms": 120.0,
-      "selected_url": "http://192.151.150.154/live/cctv2hd.m3u8"
+      "candidate_count": 3,
+      "selected_original_name": "CCTV2",
+      "selected_resolution": 1080,
+      "selected_response_time_ms": 47.0,
+      "selected_url": "http://120.198.95.220:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "CCTV3",
-      "candidate_count": 4,
+      "candidate_count": 3,
       "selected_original_name": "CCTV-3",
       "selected_resolution": 1080,
       "selected_response_time_ms": 120.0,
@@ -30,19 +30,19 @@
     },
     {
       "channel": "CCTV4",
-      "candidate_count": 1,
-      "selected_original_name": "CCTV-4 中文国际",
-      "selected_resolution": null,
-      "selected_response_time_ms": null,
-      "selected_url": "https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1792566000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-98e5e91272a1f64871487430b9e43add&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c"
+      "candidate_count": 4,
+      "selected_original_name": "CCTV4",
+      "selected_resolution": 1080,
+      "selected_response_time_ms": 45.0,
+      "selected_url": "http://120.198.95.220:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
-      "channel": "CCTV5+",
+      "channel": "CCTV5",
       "candidate_count": 1,
-      "selected_original_name": "CCTV5+",
+      "selected_original_name": "CCTV-5",
       "selected_resolution": 720,
-      "selected_response_time_ms": 77.0,
-      "selected_url": "http://124.228.160.112:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0"
+      "selected_response_time_ms": 120.0,
+      "selected_url": "http://207.56.13.146:81/cdnlive/cctv5.m3u8"
     },
     {
       "channel": "CCTV6",
@@ -50,7 +50,7 @@
       "selected_original_name": "CCTV-6",
       "selected_resolution": 1080,
       "selected_response_time_ms": 120.0,
-      "selected_url": "http://74.91.26.218:82/live/cctv6hd.m3u8"
+      "selected_url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd"
     },
     {
       "channel": "CCTV7",
@@ -62,27 +62,27 @@
     },
     {
       "channel": "CCTV8",
-      "candidate_count": 2,
+      "candidate_count": 3,
       "selected_original_name": "CCTV-8",
       "selected_resolution": 720,
       "selected_response_time_ms": 120.0,
-      "selected_url": "http://207.56.13.146:81/cdnlive/cctv8.m3u8"
+      "selected_url": "http://74.91.26.218:82/live/cctv8hd.m3u8"
     },
     {
       "channel": "CCTV9",
-      "candidate_count": 3,
+      "candidate_count": 4,
       "selected_original_name": "CCTV9",
       "selected_resolution": 576,
-      "selected_response_time_ms": 44.0,
-      "selected_url": "http://124.228.160.112:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0"
+      "selected_response_time_ms": 55.0,
+      "selected_url": "http://36.136.38.87:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0"
     },
     {
       "channel": "CCTV10",
-      "candidate_count": 3,
-      "selected_original_name": "CCTV-10",
-      "selected_resolution": 720,
-      "selected_response_time_ms": 120.0,
-      "selected_url": "http://74.91.26.218:82/live/cctv10hd.m3u8"
+      "candidate_count": 4,
+      "selected_original_name": "CCTV10",
+      "selected_resolution": 1080,
+      "selected_response_time_ms": 45.0,
+      "selected_url": "http://120.198.95.220:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "CCTV11",
@@ -94,15 +94,15 @@
     },
     {
       "channel": "CCTV12",
-      "candidate_count": 1,
+      "candidate_count": 2,
       "selected_original_name": "CCTV12",
-      "selected_resolution": 720,
-      "selected_response_time_ms": 120.0,
-      "selected_url": "http://74.91.26.218:82/live/cctv12hd.m3u8"
+      "selected_resolution": 1080,
+      "selected_response_time_ms": 47.0,
+      "selected_url": "http://120.198.95.220:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "CCTV13",
-      "candidate_count": 2,
+      "candidate_count": 3,
       "selected_original_name": "CCTV-13",
       "selected_resolution": 1080,
       "selected_response_time_ms": 120.0,
@@ -110,7 +110,7 @@
     },
     {
       "channel": "CCTV14",
-      "candidate_count": 2,
+      "candidate_count": 4,
       "selected_original_name": "CCTV-14",
       "selected_resolution": 1080,
       "selected_response_time_ms": 120.0,
@@ -118,50 +118,50 @@
     },
     {
       "channel": "CCTV15",
-      "candidate_count": 1,
+      "candidate_count": 5,
       "selected_original_name": "CCTV15",
-      "selected_resolution": 576,
-      "selected_response_time_ms": 39.0,
-      "selected_url": "http://124.228.160.112:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0"
+      "selected_resolution": 1080,
+      "selected_response_time_ms": 50.0,
+      "selected_url": "http://120.198.95.220:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "CCTV16",
       "candidate_count": 1,
       "selected_original_name": "CCTV-16",
-      "selected_resolution": 1080,
+      "selected_resolution": 720,
       "selected_response_time_ms": 120.0,
-      "selected_url": "http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8"
+      "selected_url": "http://207.56.13.146:81/cdnlive/cctv16.m3u8"
     },
     {
       "channel": "CCTV17",
-      "candidate_count": 1,
+      "candidate_count": 2,
       "selected_original_name": "CCTV-17 (1080p)",
       "selected_resolution": 1080,
       "selected_response_time_ms": null,
       "selected_url": "http://74.91.26.218:82/live/cctv17hd.m3u8"
     },
     {
-      "channel": "北京卫视",
-      "candidate_count": 1,
-      "selected_original_name": "北京卫视",
+      "channel": "湖南卫视",
+      "candidate_count": 2,
+      "selected_original_name": "湖南卫视",
       "selected_resolution": 1080,
-      "selected_response_time_ms": 120.0,
-      "selected_url": "http://107.150.60.122/live/bjwshd.m3u8"
+      "selected_response_time_ms": 49.0,
+      "selected_url": "http://120.198.95.220:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "东方卫视",
-      "candidate_count": 1,
+      "candidate_count": 3,
       "selected_original_name": "东方卫视",
-      "selected_resolution": 576,
-      "selected_response_time_ms": 36.0,
-      "selected_url": "http://124.228.160.112:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0"
+      "selected_resolution": 1080,
+      "selected_response_time_ms": 38.0,
+      "selected_url": "http://119.129.172.236:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0"
     },
     {
       "channel": "四川卫视",
       "candidate_count": 1,
       "selected_original_name": "四川卫视",
       "selected_resolution": 576,
-      "selected_response_time_ms": 50.0,
+      "selected_response_time_ms": 47.0,
       "selected_url": "http://120.198.95.220:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
@@ -176,45 +176,37 @@
       "channel": "安徽卫视",
       "candidate_count": 1,
       "selected_original_name": "安徽卫视",
-      "selected_resolution": 576,
-      "selected_response_time_ms": 39.0,
-      "selected_url": "http://124.228.160.112:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0"
+      "selected_resolution": 1080,
+      "selected_response_time_ms": 47.0,
+      "selected_url": "http://120.198.95.220:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "山东卫视",
       "candidate_count": 2,
       "selected_original_name": "山东卫视",
       "selected_resolution": 576,
-      "selected_response_time_ms": 51.0,
-      "selected_url": "http://36.136.38.87:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0"
-    },
-    {
-      "channel": "广东卫视",
-      "candidate_count": 1,
-      "selected_original_name": "广东卫视",
-      "selected_resolution": 576,
-      "selected_response_time_ms": 36.0,
-      "selected_url": "http://124.228.160.112:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0"
+      "selected_response_time_ms": 49.0,
+      "selected_url": "http://120.198.95.220:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "广西卫视",
-      "candidate_count": 2,
+      "candidate_count": 3,
       "selected_original_name": "广西卫视",
       "selected_resolution": 1080,
-      "selected_response_time_ms": 49.0,
+      "selected_response_time_ms": 50.0,
       "selected_url": "http://120.198.95.220:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "江苏卫视",
-      "candidate_count": 2,
+      "candidate_count": 4,
       "selected_original_name": "江苏卫视",
-      "selected_resolution": 720,
-      "selected_response_time_ms": 120.0,
-      "selected_url": "http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009"
+      "selected_resolution": 1080,
+      "selected_response_time_ms": 45.0,
+      "selected_url": "http://119.129.172.236:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0"
     },
     {
       "channel": "江西卫视",
-      "candidate_count": 1,
+      "candidate_count": 4,
       "selected_original_name": "江西卫视",
       "selected_resolution": 1080,
       "selected_response_time_ms": 120.0,
@@ -225,48 +217,48 @@
       "candidate_count": 2,
       "selected_original_name": "河北卫视",
       "selected_resolution": 576,
-      "selected_response_time_ms": 56.0,
+      "selected_response_time_ms": 54.0,
       "selected_url": "http://36.136.38.87:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0"
     },
     {
       "channel": "河南卫视",
-      "candidate_count": 3,
+      "candidate_count": 4,
       "selected_original_name": "河南卫视",
       "selected_resolution": 1080,
       "selected_response_time_ms": 120.0,
-      "selected_url": "https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481"
+      "selected_url": "http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=101fadcfc41afc43dd52659cc1fe9297&wsTime=1792613003"
     },
     {
       "channel": "浙江卫视",
-      "candidate_count": 3,
+      "candidate_count": 4,
       "selected_original_name": "浙江卫视",
       "selected_resolution": 1080,
-      "selected_response_time_ms": 120.0,
-      "selected_url": "http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8"
+      "selected_response_time_ms": 48.0,
+      "selected_url": "http://120.198.95.220:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "深圳卫视",
       "candidate_count": 3,
       "selected_original_name": "深圳卫视",
       "selected_resolution": 1080,
-      "selected_response_time_ms": 47.0,
+      "selected_response_time_ms": 46.0,
       "selected_url": "http://120.198.95.220:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "湖北卫视",
-      "candidate_count": 1,
+      "candidate_count": 2,
       "selected_original_name": "湖北卫视",
       "selected_resolution": 1080,
-      "selected_response_time_ms": 120.0,
-      "selected_url": "http://221.226.51.220:50081/newlive/live/hls/36/live.m3u8"
+      "selected_response_time_ms": 50.0,
+      "selected_url": "http://120.198.95.220:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "山西卫视",
       "candidate_count": 3,
       "selected_original_name": "山西卫视",
-      "selected_resolution": 576,
-      "selected_response_time_ms": 46.0,
-      "selected_url": "http://120.198.95.220:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&down=1"
+      "selected_resolution": 1080,
+      "selected_response_time_ms": 120.0,
+      "selected_url": "http://119.39.9.8:9901/tsfile/live/0118_1.m3u8"
     },
     {
       "channel": "东南卫视",
@@ -278,18 +270,18 @@
     },
     {
       "channel": "贵州卫视",
-      "candidate_count": 3,
+      "candidate_count": 2,
       "selected_original_name": "贵州卫视",
       "selected_resolution": 1080,
-      "selected_response_time_ms": 47.0,
+      "selected_response_time_ms": 48.0,
       "selected_url": "http://120.198.95.220:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "辽宁卫视",
-      "candidate_count": 2,
+      "candidate_count": 3,
       "selected_original_name": "辽宁卫视",
       "selected_resolution": 1080,
-      "selected_response_time_ms": 49.0,
+      "selected_response_time_ms": 47.0,
       "selected_url": "http://120.198.95.220:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
@@ -297,16 +289,16 @@
       "candidate_count": 1,
       "selected_original_name": "重庆卫视",
       "selected_resolution": 576,
-      "selected_response_time_ms": 46.0,
+      "selected_response_time_ms": 47.0,
       "selected_url": "http://120.198.95.220:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "黑龙江卫视",
-      "candidate_count": 1,
+      "candidate_count": 3,
       "selected_original_name": "黑龙江卫视",
-      "selected_resolution": 576,
-      "selected_response_time_ms": 53.0,
-      "selected_url": "http://36.136.38.87:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0"
+      "selected_resolution": 1080,
+      "selected_response_time_ms": 46.0,
+      "selected_url": "http://120.198.95.220:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "内蒙古卫视",
@@ -318,35 +310,27 @@
     },
     {
       "channel": "陕西卫视",
-      "candidate_count": 2,
+      "candidate_count": 3,
       "selected_original_name": "陕西卫视",
       "selected_resolution": 576,
       "selected_response_time_ms": 49.0,
-      "selected_url": "http://101.66.198.226:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0"
+      "selected_url": "http://120.198.95.220:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "吉林卫视",
       "candidate_count": 2,
       "selected_original_name": "吉林卫视",
-      "selected_resolution": 576,
-      "selected_response_time_ms": 48.0,
-      "selected_url": "http://101.66.198.93:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0"
+      "selected_resolution": 1080,
+      "selected_response_time_ms": 120.0,
+      "selected_url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd"
     },
     {
       "channel": "云南卫视",
-      "candidate_count": 2,
+      "candidate_count": 3,
       "selected_original_name": "云南卫视",
       "selected_resolution": 1080,
-      "selected_response_time_ms": 120.0,
-      "selected_url": "https://hwapi.yntv.net/ew265l/z1z6s5.m3u8"
-    },
-    {
-      "channel": "青海卫视",
-      "candidate_count": 1,
-      "selected_original_name": "青海卫视",
-      "selected_resolution": 576,
-      "selected_response_time_ms": 80.0,
-      "selected_url": "http://113.25.252.226:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0"
+      "selected_response_time_ms": 52.0,
+      "selected_url": "http://120.198.95.220:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
       "channel": "新疆卫视",
@@ -361,8 +345,16 @@
       "candidate_count": 2,
       "selected_original_name": "西藏卫视",
       "selected_resolution": 576,
-      "selected_response_time_ms": 118.0,
-      "selected_url": "http://59.39.89.130:60901/tsfile/live/0125_4.m3u8?key=txiptv&playlive=1&authid=0"
+      "selected_response_time_ms": 80.0,
+      "selected_url": "http://218.13.170.98:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0"
+    },
+    {
+      "channel": "兵团卫视",
+      "candidate_count": 1,
+      "selected_original_name": "兵团卫视",
+      "selected_resolution": 576,
+      "selected_response_time_ms": 85.0,
+      "selected_url": "http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0"
     },
     {
       "channel": "延边卫视",
@@ -373,11 +365,19 @@
       "selected_url": "https://srs.iyb983.cn:443/video/CYS/index.m3u8"
     },
     {
+      "channel": "香港卫视",
+      "candidate_count": 1,
+      "selected_original_name": "香港卫视",
+      "selected_resolution": 720,
+      "selected_response_time_ms": 120.0,
+      "selected_url": "https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8"
+    },
+    {
       "channel": "凤凰中文",
       "candidate_count": 1,
       "selected_original_name": "凤凰中文",
       "selected_resolution": 576,
-      "selected_response_time_ms": 46.0,
+      "selected_response_time_ms": 47.0,
       "selected_url": "http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
@@ -385,7 +385,7 @@
       "candidate_count": 1,
       "selected_original_name": "凤凰资讯",
       "selected_resolution": 576,
-      "selected_response_time_ms": 50.0,
+      "selected_response_time_ms": 48.0,
       "selected_url": "http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1"
     },
     {
@@ -395,6 +395,22 @@
       "selected_resolution": 720,
       "selected_response_time_ms": 120.0,
       "selected_url": "https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8"
+    },
+    {
+      "channel": "金鹰卡通",
+      "candidate_count": 1,
+      "selected_original_name": "金鹰卡通",
+      "selected_resolution": 576,
+      "selected_response_time_ms": 45.0,
+      "selected_url": "http://120.198.95.220:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&down=1"
+    },
+    {
+      "channel": "女性时尚",
+      "candidate_count": 2,
+      "selected_original_name": "女性时尚",
+      "selected_resolution": 1080,
+      "selected_response_time_ms": 41.0,
+      "selected_url": "http://119.129.172.236:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0"
     }
   ]
 }
