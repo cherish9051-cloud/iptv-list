@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="cherish9051-cloud/iptv-list" generator-info-url="https://github.com/cherish9051-cloud/iptv-list">
-  <channel id="CCTV1.cn@SD">
+  <channel id="CCTV1.cn@HD">
     <display-name lang="zh">CCTV1</display-name>
-    <icon src="https://i.imgur.com/TpA3cUl.png" />
+    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" />
   </channel>
   <channel id="CCTV2.cn@SD">
     <display-name lang="zh">CCTV2</display-name>
@@ -20,38 +20,34 @@
     <display-name lang="zh">CCTV5</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" />
   </channel>
-  <channel id="CCTV5+">
-    <display-name lang="zh">CCTV5+</display-name>
-    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" />
-  </channel>
   <channel id="CCTV6.cn@HD">
     <display-name lang="zh">CCTV6</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" />
   </channel>
-  <channel id="CCTV7.cn@SD">
+  <channel id="CCTV7">
     <display-name lang="zh">CCTV7</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" />
   </channel>
   <channel id="CCTV8.cn@SD">
     <display-name lang="zh">CCTV8</display-name>
+    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" />
   </channel>
-  <channel id="CCTV-9">
+  <channel id="CCTV9.cn@SD">
     <display-name lang="zh">CCTV9</display-name>
-    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" />
+    <icon src="https://live.fanmingming.com/tv/CCTV9.png" />
   </channel>
   <channel id="CCTV10.cn@SD">
     <display-name lang="zh">CCTV10</display-name>
-    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" />
   </channel>
-  <channel id="CCTV11.cn@SD">
+  <channel id="CCTV11">
     <display-name lang="zh">CCTV11</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" />
   </channel>
-  <channel id="CCTV12.cn@SD">
+  <channel id="CCTV12">
     <display-name lang="zh">CCTV12</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" />
   </channel>
-  <channel id="CCTV13">
+  <channel id="CCTV13.cn@SD">
     <display-name lang="zh">CCTV13</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" />
   </channel>
@@ -62,32 +58,33 @@
   <channel id="CCTV15.cn@SD">
     <display-name lang="zh">CCTV15</display-name>
   </channel>
+  <channel id="CCTV16">
+    <display-name lang="zh">CCTV16</display-name>
+    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" />
+  </channel>
   <channel id="CCTV17.cn@HD">
     <display-name lang="zh">CCTV17</display-name>
+    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" />
+  </channel>
+  <channel id="湖南卫视">
+    <display-name lang="zh">湖南卫视</display-name>
+    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" />
   </channel>
   <channel id="东方卫视">
     <display-name lang="zh">东方卫视</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" />
   </channel>
-  <channel id="四川卫视">
-    <display-name lang="zh">四川卫视</display-name>
-    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川卫视.png" />
-  </channel>
   <channel id="天津卫视">
     <display-name lang="zh">天津卫视</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天津卫视.png" />
   </channel>
-  <channel id="安徽卫视">
-    <display-name lang="zh">安徽卫视</display-name>
-    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽卫视.png" />
-  </channel>
-  <channel id="广东卫视">
-    <display-name lang="zh">广东卫视</display-name>
-    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" />
-  </channel>
   <channel id="广西卫视">
     <display-name lang="zh">广西卫视</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西卫视.png" />
+  </channel>
+  <channel id="江苏卫视">
+    <display-name lang="zh">江苏卫视</display-name>
+    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" />
   </channel>
   <channel id="江西卫视">
     <display-name lang="zh">江西卫视</display-name>
@@ -125,18 +122,6 @@
     <display-name lang="zh">贵州卫视</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/贵州卫视.png" />
   </channel>
-  <channel id="辽宁卫视">
-    <display-name lang="zh">辽宁卫视</display-name>
-    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁卫视.png" />
-  </channel>
-  <channel id="黑龙江卫视">
-    <display-name lang="zh">黑龙江卫视</display-name>
-    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江卫视.png" />
-  </channel>
-  <channel id="内蒙古卫视">
-    <display-name lang="zh">内蒙古卫视</display-name>
-    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/内蒙古卫视.png" />
-  </channel>
   <channel id="宁夏卫视">
     <display-name lang="zh">宁夏卫视</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宁夏卫视.png" />
@@ -153,6 +138,14 @@
     <display-name lang="zh">云南卫视</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/云南卫视.png" />
   </channel>
+  <channel id="三沙卫视">
+    <display-name lang="zh">三沙卫视</display-name>
+    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/三沙卫视.png" />
+  </channel>
+  <channel id="青海卫视">
+    <display-name lang="zh">青海卫视</display-name>
+    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/青海卫视.png" />
+  </channel>
   <channel id="新疆卫视">
     <display-name lang="zh">新疆卫视</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新疆卫视.png" />
@@ -161,27 +154,23 @@
     <display-name lang="zh">西藏卫视</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/西藏卫视.png" />
   </channel>
+  <channel id="兵团卫视">
+    <display-name lang="zh">兵团卫视</display-name>
+    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/兵团卫视.png" />
+  </channel>
   <channel id="延边卫视">
     <display-name lang="zh">延边卫视</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/延边卫视.png" />
-  </channel>
-  <channel id="凤凰中文">
-    <display-name lang="zh">凤凰中文</display-name>
-    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" />
-  </channel>
-  <channel id="凤凰资讯">
-    <display-name lang="zh">凤凰资讯</display-name>
-    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" />
-  </channel>
-  <channel id="凤凰香港">
-    <display-name lang="zh">凤凰香港</display-name>
-    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" />
   </channel>
   <channel id="金鹰卡通">
     <display-name lang="zh">金鹰卡通</display-name>
     <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" />
   </channel>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV1.cn@SD">
+  <channel id="女性时尚">
+    <display-name lang="zh">女性时尚</display-name>
+    <icon src="https://gitee.com/mytv-android/myTVlogo/raw/main/img/女性时尚.png" />
+  </channel>
+  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV1.cn@HD">
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
@@ -201,15 +190,11 @@
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV5+">
-    <title lang="zh">暂无节目单</title>
-    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
-  </programme>
   <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV6.cn@HD">
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV7.cn@SD">
+  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV7">
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
@@ -217,7 +202,7 @@
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV-9">
+  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV9.cn@SD">
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
@@ -225,15 +210,15 @@
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV11.cn@SD">
+  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV11">
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV12.cn@SD">
+  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV12">
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV13">
+  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV13.cn@SD">
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
@@ -245,7 +230,15 @@
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
+  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV16">
+    <title lang="zh">暂无节目单</title>
+    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
+  </programme>
   <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="CCTV17.cn@HD">
+    <title lang="zh">暂无节目单</title>
+    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
+  </programme>
+  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="湖南卫视">
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
@@ -253,23 +246,15 @@
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="四川卫视">
-    <title lang="zh">暂无节目单</title>
-    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
-  </programme>
   <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="天津卫视">
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="安徽卫视">
-    <title lang="zh">暂无节目单</title>
-    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
-  </programme>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="广东卫视">
-    <title lang="zh">暂无节目单</title>
-    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
-  </programme>
   <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="广西卫视">
+    <title lang="zh">暂无节目单</title>
+    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
+  </programme>
+  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="江苏卫视">
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
@@ -309,18 +294,6 @@
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="辽宁卫视">
-    <title lang="zh">暂无节目单</title>
-    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
-  </programme>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="黑龙江卫视">
-    <title lang="zh">暂无节目单</title>
-    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
-  </programme>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="内蒙古卫视">
-    <title lang="zh">暂无节目单</title>
-    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
-  </programme>
   <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="宁夏卫视">
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
@@ -337,6 +310,14 @@
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
+  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="三沙卫视">
+    <title lang="zh">暂无节目单</title>
+    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
+  </programme>
+  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="青海卫视">
+    <title lang="zh">暂无节目单</title>
+    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
+  </programme>
   <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="新疆卫视">
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
@@ -345,23 +326,19 @@
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
+  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="兵团卫视">
+    <title lang="zh">暂无节目单</title>
+    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
+  </programme>
   <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="延边卫视">
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="凤凰中文">
-    <title lang="zh">暂无节目单</title>
-    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
-  </programme>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="凤凰资讯">
-    <title lang="zh">暂无节目单</title>
-    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
-  </programme>
-  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="凤凰香港">
-    <title lang="zh">暂无节目单</title>
-    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
-  </programme>
   <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="金鹰卡通">
+    <title lang="zh">暂无节目单</title>
+    <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
+  </programme>
+  <programme start="20261030000000 +0000" stop="20261109000000 +0000" channel="女性时尚">
     <title lang="zh">暂无节目单</title>
     <desc lang="zh">该频道暂未配置真实 EPG，本条目用于 Threadfin 频道映射。</desc>
   </programme>
